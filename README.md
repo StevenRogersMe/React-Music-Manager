@@ -1,6 +1,6 @@
 # React-Music-Manager
 React music administrator
 
-![image](https://user-images.githubusercontent.com/87444638/139448609-dc4978fb-1ce8-40ca-936f-60199f71d4b0.png)
+![image](https://user-images.githubusercontent.com/87444638/139449309-f56b0e67-5f43-4a32-956f-44c13ef3fc11.png)
 
 
